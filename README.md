@@ -42,9 +42,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfiya-shaikh&show_icons=true&theme=radical" alt="Alfiya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfiya-shaikh&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiya-shaikh&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username==alfiashk&show_icons=true&theme=radical" alt="Alfiya's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user==alfiashk&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==alfiashk&layout=compact&theme=radical" />
 </p>
 
 ---
