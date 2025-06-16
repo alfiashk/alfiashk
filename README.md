@@ -1,60 +1,63 @@
 <h1 align="center">Hi, I'm Alfiya Shaikh 👋</h1>
 
 <p align="center">
-  A passionate Full Stack Developer | Computer Science Graduate | CGPA 9.5
+  Computer Science Graduate | Full Stack Developer | CGPA 9.5
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a **Computer Science graduate** with a strong foundation in software development and a CGPA of **9.5**.
+🎓 I'm a Computer Science graduate with a strong academic background (9.5 CGPA) and a passion for building web applications that solve real-world problems.
 
-💻 I love building **scalable**, **user-friendly**, and **real-world web applications**. I have hands-on experience with the **MERN stack**, cloud deployment, and database design.
+💻 I work mainly with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have deployed multiple full-stack projects using **Render**, **Cloudinary**, and **MongoDB Atlas**.
 
-🌟 I enjoy working on end-to-end features — from backend logic to frontend UI, and deploying everything live on the web.
-
-🔍 I'm actively looking for **internship or entry-level roles** in **Full Stack / Backend / JavaScript Development** where I can contribute and grow.
+🔍 I'm currently looking for **internships or entry-level roles** in full-stack or backend development where I can learn, contribute, and grow.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💼 Projects
 
-- **Languages**: JavaScript, HTML, CSS, Java (basic)
-- **Frontend**: React.js, EJS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MongoDB Atlas
-- **Others**: REST APIs, Git & GitHub, Render, Cloudinary, Postman
+- **[🌍 WanderLust](https://delta-project-tnax.onrender.com)**  
+  Airbnb-inspired booking app with category filtering, image uploads, and location-based search.
+
+- **🏨 Resort Management System**  
+  Admin dashboard to manage resorts, bookings, and customer records.
+
+- **🛒 E-Commerce Store**  
+  Built using React frontend and Java backend with dynamic product and cart management.
+
+- **💸 Group Expense Splitter**  
+  Tracks group expenses with custom and equal split options and live balance updates.
 
 ---
 
-## 🔧 Projects
+## 🛠️ Skills & Tools
 
-| Project Name | Description |
-|--------------|-------------|
-| [🌍 WanderLust](https://delta-project-tnax.onrender.com) | Airbnb-inspired full-stack booking app with image upload, location search, and category filter. |
-| 💼 Resort Management System | Admin dashboard for managing resort data, bookings, and customers (CRUD features). |
-| 🛒 E-Commerce Store | React + Java backend based shopping app with cart, pricing, and product management. |
-| 💸 Group Expense Splitter | Expense tracker app with equal/custom splits and dynamic balance updates. |
+**Languages:** JavaScript, HTML, CSS, Java (basic)  
+**Frontend:** React.js, EJS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MongoDB Atlas  
+**Others:** REST APIs, Git & GitHub, Render, Cloudinary, Postman
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username==alfiashk&show_icons=true&theme=radical" alt="Alfiya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user==alfiashk&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==alfiashk&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfiashk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiashk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 📧 Email: alfiya.shaikh@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 💻 [Portfolio](https://yourportfolio.com/) *(optional)*
+- 📧 Email: a.alfiashaikh@gmail.com  
+- 💼 [LinkedIn](| https://www.linkedin.com/in/alfiya-shaikh-8639382b0/)  
+- 💻 [Portfolio](https://alfiashk.github.io/Portfolio/ )
 
 ---
 
-*Always learning, building, and looking for opportunities to make an impact! 🚀*
+*Thanks for visiting my profile! 😊 Let's connect and build something great together.*
