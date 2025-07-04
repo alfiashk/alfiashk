@@ -27,9 +27,6 @@
 - **🛒 E-Commerce Store**  
   Built using React frontend and Java backend with dynamic product and cart management.
 
-- **💸 Group Expense Splitter**  
-  Tracks group expenses with custom and equal split options and live balance updates.
-
 ---
 
 ## 🛠️ Skills & Tools
